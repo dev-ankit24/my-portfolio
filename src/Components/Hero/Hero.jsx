@@ -6,7 +6,8 @@ function Hero() {
   return (
     <div className="hero">
       <img className="profile_img" src={profile} alt="profile imge" />
-      <h1>I'm Ankit Kumar, Full-Stack Web Developer </h1>
+      <h6>Full-Stack Web Developer</h6>
+      <h1> Ankit Kumar </h1>
       <p>
         Passionate Full-Stack Web Developer adept in JavaScript, React, Node.js,
         and MongoDB, with a focus on crafting beautiful and functional websites.
